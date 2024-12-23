@@ -3,3 +3,4 @@ chromadb
 langchain-ollama
 llama_index
 sentence-transformers
+pysqlite3-binary
